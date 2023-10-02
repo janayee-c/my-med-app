@@ -1,0 +1,43 @@
+{
+    "symptoms": "CPSC 210",
+    "name": "Janaye Cheong",
+    "id": 2003,
+    "prescriptions": [
+        {
+            "dosage": "1 mg",
+            "schedule": [
+                "08:00",
+                "09:00"
+            ],
+            "number": 31,
+            "directions": "take after eating",
+            "imprint": "142",
+            "name": "zoloft",
+            "buffer": 1,
+            "counter": 0,
+            "lastRefill": "2023-01-20",
+            "refillDate": "2023-02-04",
+            "frequency": 2
+        },
+        {
+            "dosage": "400 mg",
+            "schedule": [
+                "12:00",
+                "15:00",
+                "18:00",
+                "21:00",
+                "00:00",
+                "03:00"
+            ],
+            "number": 32,
+            "directions": "take with water",
+            "imprint": "420",
+            "name": "wellbutrin",
+            "buffer": 3,
+            "counter": 0,
+            "lastRefill": "2002-10-10",
+            "refillDate": "2002-10-15",
+            "frequency": 6
+        }
+    ]
+}
