@@ -1,8 +1,5 @@
 # My Med App !
 
-### A CPSC 210 Project
-### Phase 3: Instructions for Grader
-
 - You can generate the first action related of adding Prescriptions to a Patient Account by inputting the required 
     fields to make a prescription and then clicking the "Add Prescription" button 
   - NOTES: the date field format must follow (YYYY-MM-DD)
